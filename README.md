@@ -26,7 +26,7 @@
 
 ### 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Soubhagyahatti&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Soubhagyahatti&layout=compact&theme=radical)
+
 
 ---
 
